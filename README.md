@@ -52,5 +52,3 @@ Upon execution, the program will prompt you to enter a year (e.g., `2024`), and 
 ```
 
 ---
-
-Would you like me to help you refactor the code to allow users to export the calendar to a `.txt` file instead of just printing it to the console?
