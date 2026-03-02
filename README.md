@@ -2,7 +2,8 @@
 calendar program using c language
 <br>
 author - krish jaiswal
-/ Gregorian calendar
+
+Gregorian calendar
 #include <stdio.h> 
 
 // formula : 
