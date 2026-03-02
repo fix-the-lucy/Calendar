@@ -31,7 +31,7 @@ gcc Calender.c -o calander
 ### Running the Program
 
 ```bash
-./calendar
+./calander
 
 ```
 
