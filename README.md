@@ -24,7 +24,7 @@ The core of the program relies on three main components:
 Use any standard C compiler (like `gcc`) to compile the source code:
 
 ```bash
-gcc calendar.c -o calendar
+gcc Calender.c -o calander
 
 ```
 
